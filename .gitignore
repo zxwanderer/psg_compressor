@@ -1,3 +1,4 @@
 /x64
 /.vs
 git-set-local.sh
+git-set-remotes.sh
